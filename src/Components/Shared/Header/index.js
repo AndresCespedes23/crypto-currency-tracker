@@ -55,7 +55,7 @@ const Header = () => {
                         onChange={(e) => setCurrency(e.target.value)}
                         >
                         <MenuItem value={'USD'}>USD</MenuItem>
-                        <MenuItem value={'ARG'}>ARG</MenuItem>
+                        <MenuItem value={'ARS'}>ARS</MenuItem>
                     </Select>
                 </Toolbar>
             </Container>
